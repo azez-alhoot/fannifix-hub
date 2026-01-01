@@ -49,7 +49,7 @@ export const generateServiceSchema = (service: {
   description: service.description,
   provider: {
     '@type': 'Organization',
-    name: 'فني فيكس - FanniFix',
+    name: 'فني تصليح - FanniFix',
     url: 'https://fannifix.com',
   },
   areaServed: {

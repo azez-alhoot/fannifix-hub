@@ -113,7 +113,7 @@ export const AdBanner = ({
 // Sample ad data for demonstration
 export const sampleAds = {
   horizontal: {
-    title: "أعلن معنا على فني فيكس",
+    title: "أعلن معنا على فني تصليح",
     description: "وصول إلى آلاف العملاء المحتملين يومياً",
     ctaText: "احجز مساحتك الإعلانية",
     ctaLink: "#",

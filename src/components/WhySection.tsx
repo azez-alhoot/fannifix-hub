@@ -52,7 +52,7 @@ export const WhySection = () => {
         {/* Section Header */}
         <div className="text-center mb-16">
           <span className="inline-block text-primary font-semibold mb-3">
-            لماذا فني فيكس؟
+            لماذا فني تصليح؟
           </span>
           <h2 className="section-title">
             نوفر لك أفضل تجربة للعثور على فني

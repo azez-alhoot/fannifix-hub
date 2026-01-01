@@ -13,8 +13,8 @@
 **Status:** ✅ FIXED
 
 **Examples:**
-- ❌ Before: `فني تكييف في حولي - الكويت | فني فيكس` (38 chars - OK)
-- ❌ Before: `فني فيكس - FanniFix | أسرع طريقة لإيجاد فني في الكويت والخليج` (58 chars - OK but can optimize)
+- ❌ Before: `فني تكييف في حولي - الكويت | فني تصليح` (38 chars - OK)
+- ❌ Before: `فني تصليح - FanniFix | أسرع طريقة لإيجاد فني في الكويت والخليج` (58 chars - OK but can optimize)
 
 ### 2. Missing Canonical Tags
 **Issue:** No canonical tags to prevent duplicate content  
@@ -82,19 +82,19 @@
 ## ✅ OPTIMIZED META EXAMPLES
 
 ### Homepage (/kw)
-**Title:** `فني فيكس الكويت | فنيين موثوقين تواصل مباشر` (42 chars)  
+**Title:** `فني تصليح الكويت | فنيين موثوقين تواصل مباشر` (42 chars)  
 **Description:** `ابحث عن فني تكييف، كهربائي، سباك في الكويت. فنيين موثوقين في حولي، السالمية، الفروانية. تواصل مباشر بدون عمولة.` (115 chars)
 
 ### Service Page (/kw/ac-technician)
-**Title:** `فني تكييف الكويت | فني فيكس` (28 chars)  
+**Title:** `فني تكييف الكويت | فني تصليح` (28 chars)  
 **Description:** `ابحث عن فني تكييف في جميع مناطق الكويت. تركيب وصيانة المكيفات. تواصل مباشر، أسعار مناسبة.` (95 chars)
 
 ### Service + Area Page (/kw/ac-technician/hawalli)
-**Title:** `فني تكييف حولي | فني فيكس الكويت` (30 chars)  
+**Title:** `فني تكييف حولي | فني تصليح الكويت` (30 chars)  
 **Description:** `فني تكييف في حولي، الكويت. تركيب وصيانة المكيفات. فنيين موثوقين، تواصل مباشر عبر واتساب.` (88 chars)
 
 ### Technician Page (/technician/{id})
-**Title:** `{name} - فني {service} في {area} | فني فيكس`  
+**Title:** `{name} - فني {service} في {area} | فني تصليح`  
 **Description:** `{name} - فني {service} في {area}، الكويت. {short description}. تواصل مباشر.` (max 155 chars)
 
 ---

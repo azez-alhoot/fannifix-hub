@@ -31,7 +31,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${service.name} | فني فيكس`,
+    title: `${service.name} | فني تصليح`,
     description: service.description,
   };
 }

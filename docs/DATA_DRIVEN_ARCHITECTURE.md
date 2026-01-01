@@ -115,26 +115,26 @@ This document describes the data-driven architecture refactoring that makes Fann
 ```json
 {
   "default": {
-    "title": "فني فيكس الكويت | فنيين موثوقين تواصل مباشر",
+    "title": "فني تصليح الكويت | فنيين موثوقين تواصل مباشر",
     "description": "...",
     "keywords": "..."
   },
   "services": {
     "ac": {
-      "title": "فني تكييف الكويت | فني فيكس",
+      "title": "فني تكييف الكويت | فني تصليح",
       "description": "...",
       "service_description": "تركيب وصيانة أجهزة التكييف..."
     }
   },
   "areas": {
     "hawalli": {
-      "title": "فنيين في حولي | فني فيكس",
+      "title": "فنيين في حولي | فني تصليح",
       "description": "..."
     }
   },
   "service_area": {
     "ac_hawalli": {
-      "title": "فني تكييف في حولي | فني فيكس الكويت",
+      "title": "فني تكييف في حولي | فني تصليح الكويت",
       "description": "..."
     }
   },

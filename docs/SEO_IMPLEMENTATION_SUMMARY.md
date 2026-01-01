@@ -9,9 +9,9 @@
 - ✅ Open Graph tags updated
 
 **Examples:**
-- Homepage: `فني فيكس الكويت | فنيين موثوقين تواصل مباشر` (42 chars)
-- Service: `فني تكييف الكويت | فني فيكس` (28 chars)
-- Service+Area: `فني تكييف حولي | فني فيكس الكويت` (30 chars)
+- Homepage: `فني تصليح الكويت | فنيين موثوقين تواصل مباشر` (42 chars)
+- Service: `فني تكييف الكويت | فني تصليح` (28 chars)
+- Service+Area: `فني تكييف حولي | فني تصليح الكويت` (30 chars)
 
 ### 2. Canonical Tags
 - ✅ Added canonical tags to all pages
@@ -50,7 +50,7 @@
 - ✅ Natural Arabic tone (neutral Kuwaiti)
 
 ### 7. Technician Pages Optimization
-- ✅ Optimized titles: `{name} - فني {service} في {area} | فني فيكس`
+- ✅ Optimized titles: `{name} - فني {service} في {area} | فني تصليح`
 - ✅ Enhanced descriptions with service + area
 - ✅ Improved schema markup
 - ✅ Canonical tags added

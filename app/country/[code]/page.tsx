@@ -36,7 +36,7 @@ export async function generateMetadata({
   const technicians = getTechniciansByCountry(country.code);
 
   return {
-    title: `فنيين في ${country.name} | فني فيكس`,
+    title: `فنيين في ${country.name} | فني تصليح`,
     description: `ابحث عن أفضل الفنيين في ${country.name}. ${technicians.length} فني متاح.`,
   };
 }

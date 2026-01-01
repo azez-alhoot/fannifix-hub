@@ -25,7 +25,7 @@ export default function AddListingPage() {
               أضف إعلانك مجاناً
             </h1>
             <p className="text-xl text-muted-foreground mb-6">
-              {ctaContent?.technician_description || "انضم لشبكة فني فيكس وابدأ باستقبال طلبات العملاء في منطقتك"}
+              {ctaContent?.technician_description || "انضم لشبكة فني تصليح وابدأ باستقبال طلبات العملاء في منطقتك"}
             </p>
           </div>
 
@@ -73,7 +73,7 @@ export default function AddListingPage() {
               </h2>
               
               <p className="text-lg text-muted-foreground mb-8 max-w-xl mx-auto">
-                للانضمام إلى منصة فني فيكس، تواصل معنا عبر واتساب وسنساعدك في إضافة إعلانك.
+                للانضمام إلى منصة فني تصليح، تواصل معنا عبر واتساب وسنساعدك في إضافة إعلانك.
                 <br />
                 <span className="font-semibold text-foreground">
                   سنقوم بإضافة بياناتك يدوياً خلال 24 ساعة

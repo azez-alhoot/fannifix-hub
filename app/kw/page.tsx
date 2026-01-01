@@ -53,7 +53,7 @@ const iconMap: Record<string, LucideIcon> = {
 const seoData = getSeoForPage('kw', 'default');
 
 export const metadata: Metadata = {
-  title: seoData?.title || "فني فيكس الكويت | فنيين موثوقين تواصل مباشر",
+  title: seoData?.title || "فني تصليح الكويت | فنيين موثوقين تواصل مباشر",
   description: seoData?.description || "ابحث عن فني تكييف، كهربائي، سباك في الكويت.",
   keywords: seoData?.keywords,
   alternates: {
@@ -259,7 +259,7 @@ export default function KuwaitLandingPage() {
         <section className="py-20 bg-muted/30">
           <div className="container mx-auto px-4">
             <div className="text-center mb-12">
-              <h2 className="section-title">لماذا فني فيكس؟</h2>
+              <h2 className="section-title">لماذا فني تصليح؟</h2>
               <p className="section-subtitle">ما يميزنا عن غيرنا</p>
             </div>
 
@@ -335,7 +335,7 @@ export default function KuwaitLandingPage() {
               {ctaContent?.technician || "هل أنت فني؟ أضف إعلانك الآن — مجاناً"}
             </h2>
             <p className="text-xl text-white/80 mb-8 max-w-2xl mx-auto">
-              {ctaContent?.technician_description || "انضم لشبكة فني فيكس وابدأ باستقبال طلبات العملاء في منطقتك"}
+              {ctaContent?.technician_description || "انضم لشبكة فني تصليح وابدأ باستقبال طلبات العملاء في منطقتك"}
             </p>
             <Link href="/kw/add-listing">
               <Button className="btn-accent text-lg px-8 py-6">

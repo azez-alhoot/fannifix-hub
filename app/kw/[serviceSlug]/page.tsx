@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   });
 
   // Fallback if SEO not found
-  const pageTitle = seoData?.title || `${service.name} الكويت | فني فيكس`;
+  const pageTitle = seoData?.title || `${service.name} الكويت | فني تصليح`;
   const pageDescription = seoData?.description || `ابحث عن ${service.name} في جميع مناطق الكويت. ${technicians.length}+ فني متاح. تواصل مباشر، أسعار مناسبة.`;
 
   return {

@@ -52,7 +52,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     areaId: area.id,
   });
 
-  const pageTitle = `فنيين في ${area.name} - الكويت | فني فيكس`;
+  const pageTitle = `فنيين في ${area.name} - الكويت | فني تصليح`;
   const pageDescription = `ابحث عن أفضل الفنيين في ${area.name}، الكويت. ${technicians.length}+ فني متاح في التكييف، الكهرباء، السباكة، الغسالات والثلاجات. تواصل مباشر، بدون عمولة.`;
 
   return {

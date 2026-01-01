@@ -6,7 +6,7 @@ import { ServiceCard } from "@/components/ServiceCard";
 import { services, getTechniciansByService } from "@/data";
 
 export const metadata: Metadata = {
-  title: "جميع الخدمات | فني فيكس",
+  title: "جميع الخدمات | فني تصليح",
   description:
     "تصفح جميع خدمات الصيانة المتاحة: كهربائي، سباك، فني تكييف، نجار، حداد وغيرها في الكويت والخليج.",
 };

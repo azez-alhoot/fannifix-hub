@@ -11,9 +11,9 @@ import {
 import { ArrowLeft } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "الدول المتاحة | فني فيكس",
+  title: "الدول المتاحة | فني تصليح",
   description:
-    "تصفح خدمات فني فيكس في الكويت والسعودية والإمارات وقطر. ابحث عن فنيين محترفين في دولتك.",
+    "تصفح خدمات فني تصليح في الكويت والسعودية والإمارات وقطر. ابحث عن فنيين محترفين في دولتك.",
 };
 
 export default function CountriesPage() {

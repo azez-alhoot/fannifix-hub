@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const primaryArea = areas[0];
 
   // Optimize title: فني {service} في {area} | FanniFix
-  const pageTitle = `${technician.name} - فني ${primaryService?.name || 'صيانة'} في ${primaryArea?.name || 'الكويت'} | فني فيكس`;
+  const pageTitle = `${technician.name} - فني ${primaryService?.name || 'صيانة'} في ${primaryArea?.name || 'الكويت'} | فني تصليح`;
   const pageDescription = `${technician.name} - فني ${primaryService?.name || 'صيانة'} في ${primaryArea?.name || 'الكويت'}. ${technician.description.substring(0, 100)}... تواصل مباشر.`;
 
   return {

@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   });
 
   // Fallback if SEO not found
-  const pageTitle = seoData?.title || `${service.name} ${area.name} | فني فيكس الكويت`;
+  const pageTitle = seoData?.title || `${service.name} ${area.name} | فني تصليح الكويت`;
   const pageDescription = seoData?.description || `${service.name} في ${area.name}، الكويت. فنيين موثوقين، تواصل مباشر عبر واتساب. أسعار مناسبة.`;
 
   return {

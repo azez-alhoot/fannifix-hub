@@ -20,7 +20,7 @@ export const Logo = ({ variant = "default", size = "lg" }: LogoProps) => {
   return (
     <Image 
       src="/logo.png" 
-      alt="FanniFix - فني فيكس" 
+      alt="FanniFix - فني تصليح" 
       width={200}
       height={200}
       className={`${sizeClasses[size]} ${filterClass} w-auto object-contain`}
