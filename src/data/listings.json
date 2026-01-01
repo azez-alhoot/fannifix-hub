@@ -1,0 +1,81 @@
+[
+  {
+    "id": "listing-1",
+    "title": "صيانة تكييف مركزي - خدمة سريعة",
+    "technicianId": "tech-1",
+    "serviceId": "svc-5",
+    "areaId": "kw-2",
+    "countryCode": "kw",
+    "description": "خدمة صيانة تكييف مركزي شاملة بأسعار منافسة. نقوم بالتنظيف والفحص الشامل.",
+    "price": "25 د.ك",
+    "viewsCount": 342,
+    "createdAt": "2024-12-28",
+    "status": "active"
+  },
+  {
+    "id": "listing-2",
+    "title": "تصليح غسالات جميع الأنواع",
+    "technicianId": "tech-12",
+    "serviceId": "svc-2",
+    "areaId": "kw-2",
+    "countryCode": "kw",
+    "description": "إصلاح جميع أعطال الغسالات الأوتوماتيكية والعادية مع ضمان.",
+    "price": "15 د.ك",
+    "viewsCount": 218,
+    "createdAt": "2024-12-27",
+    "status": "active"
+  },
+  {
+    "id": "listing-3",
+    "title": "كهربائي منازل - خدمة 24 ساعة",
+    "technicianId": "tech-2",
+    "serviceId": "svc-3",
+    "areaId": "kw-3",
+    "countryCode": "kw",
+    "description": "خدمة كهربائي متوفرة على مدار الساعة للحالات الطارئة.",
+    "price": "20 د.ك",
+    "viewsCount": 456,
+    "createdAt": "2024-12-26",
+    "status": "active"
+  },
+  {
+    "id": "listing-4",
+    "title": "سباك محترف - كشف تسربات",
+    "technicianId": "tech-4",
+    "serviceId": "svc-4",
+    "areaId": "sa-1",
+    "countryCode": "sa",
+    "description": "كشف تسربات المياه بأحدث الأجهزة مع ضمان الإصلاح.",
+    "price": "150 ر.س",
+    "viewsCount": 523,
+    "createdAt": "2024-12-25",
+    "status": "active"
+  },
+  {
+    "id": "listing-5",
+    "title": "تركيب وبرمجة ستلايت",
+    "technicianId": "tech-13",
+    "serviceId": "svc-8",
+    "areaId": "kw-1",
+    "countryCode": "kw",
+    "description": "تركيب أطباق ستلايت وبرمجة جميع أنواع الرسيفرات.",
+    "price": "15 د.ك",
+    "viewsCount": 187,
+    "createdAt": "2024-12-24",
+    "status": "active"
+  },
+  {
+    "id": "listing-6",
+    "title": "تصميم وتنفيذ أثاث خشبي",
+    "technicianId": "tech-7",
+    "serviceId": "svc-6",
+    "areaId": "ae-1",
+    "countryCode": "ae",
+    "description": "تصميم وتنفيذ أثاث منزلي ومكتبي حسب الطلب بأجود أنواع الخشب.",
+    "price": "500 د.إ",
+    "viewsCount": 312,
+    "createdAt": "2024-12-23",
+    "status": "active"
+  }
+]
+

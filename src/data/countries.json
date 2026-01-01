@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "code": "kw",
+    "name": "الكويت",
+    "nameEn": "Kuwait",
+    "flag": "🇰🇼",
+    "currency": "KWD",
+    "currencySymbol": "د.ك",
+    "active": true
+  },
+  {
+    "id": "2",
+    "code": "sa",
+    "name": "السعودية",
+    "nameEn": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "currency": "SAR",
+    "currencySymbol": "ر.س",
+    "active": true
+  },
+  {
+    "id": "3",
+    "code": "ae",
+    "name": "الإمارات",
+    "nameEn": "UAE",
+    "flag": "🇦🇪",
+    "currency": "AED",
+    "currencySymbol": "د.إ",
+    "active": true
+  },
+  {
+    "id": "4",
+    "code": "qa",
+    "name": "قطر",
+    "nameEn": "Qatar",
+    "flag": "🇶🇦",
+    "currency": "QAR",
+    "currencySymbol": "ر.ق",
+    "active": true
+  }
+]
+

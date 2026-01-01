@@ -1,0 +1,103 @@
+[
+  {
+    "id": "hawalli",
+    "name": "حولي",
+    "slug": "hawalli"
+  },
+  {
+    "id": "salmiya",
+    "name": "السالمية",
+    "slug": "salmiya"
+  },
+  {
+    "id": "kuwait-city",
+    "name": "مدينة الكويت",
+    "slug": "kuwait-city"
+  },
+  {
+    "id": "farwaniya",
+    "name": "الفروانية",
+    "slug": "farwaniya"
+  },
+  {
+    "id": "khaitan",
+    "name": "خيطان",
+    "slug": "khaitan"
+  },
+  {
+    "id": "jahra",
+    "name": "الجهراء",
+    "slug": "jahra"
+  },
+  {
+    "id": "mahboula",
+    "name": "المهبولة",
+    "slug": "mahboula"
+  },
+  {
+    "id": "sabah-alsalem",
+    "name": "صباح السالم",
+    "slug": "sabah-alsalem"
+  },
+  {
+    "id": "fahaheel",
+    "name": "الفحيحيل",
+    "slug": "fahaheel"
+  },
+  {
+    "id": "rumaithiya",
+    "name": "الرميثية",
+    "slug": "rumaithiya"
+  },
+  {
+    "id": "jabriya",
+    "name": "الجابرية",
+    "slug": "jabriya"
+  },
+  {
+    "id": "mishref",
+    "name": "مشرف",
+    "slug": "mishref"
+  },
+  {
+    "id": "bayan",
+    "name": "بيان",
+    "slug": "bayan"
+  },
+  {
+    "id": "salwa",
+    "name": "سلوى",
+    "slug": "salwa"
+  },
+  {
+    "id": "shaab",
+    "name": "الشعب",
+    "slug": "shaab"
+  },
+  {
+    "id": "dasma",
+    "name": "الدسمة",
+    "slug": "dasma"
+  },
+  {
+    "id": "sharq",
+    "name": "الشرق",
+    "slug": "sharq"
+  },
+  {
+    "id": "daiya",
+    "name": "الدعية",
+    "slug": "daiya"
+  },
+  {
+    "id": "shamiya",
+    "name": "الشامية",
+    "slug": "shamiya"
+  },
+  {
+    "id": "rawda",
+    "name": "الروضة",
+    "slug": "rawda"
+  }
+]
+

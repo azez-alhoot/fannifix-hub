@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ac",
+    "name": "فني تكييف",
+    "slug": "ac-technician",
+    "icon": "Wind",
+    "color": "from-sky-500 to-sky-600"
+  },
+  {
+    "id": "refrigerator",
+    "name": "فني ثلاجات",
+    "slug": "refrigerator",
+    "icon": "Refrigerator",
+    "color": "from-blue-500 to-blue-600"
+  },
+  {
+    "id": "washing-machine",
+    "name": "فني غسالات",
+    "slug": "washing-machine",
+    "icon": "WashingMachine",
+    "color": "from-cyan-500 to-cyan-600"
+  },
+  {
+    "id": "electrician",
+    "name": "كهربائي",
+    "slug": "electrician",
+    "icon": "Zap",
+    "color": "from-yellow-500 to-orange-500"
+  },
+  {
+    "id": "plumber",
+    "name": "سباكة",
+    "slug": "plumber",
+    "icon": "Droplets",
+    "color": "from-blue-400 to-blue-500"
+  },
+  {
+    "id": "satellite",
+    "name": "ستلايت",
+    "slug": "satellite",
+    "icon": "Satellite",
+    "color": "from-purple-500 to-purple-600"
+  },
+  {
+    "id": "carpenter",
+    "name": "نجار",
+    "slug": "carpenter",
+    "icon": "Hammer",
+    "color": "from-amber-600 to-amber-700"
+  },
+  {
+    "id": "general-maintenance",
+    "name": "صيانة عامة",
+    "slug": "general-maintenance",
+    "icon": "Wrench",
+    "color": "from-gray-600 to-gray-700"
+  },
+  {
+    "id": "camera-installation",
+    "name": "تركيب كاميرات",
+    "slug": "camera-installation",
+    "icon": "Camera",
+    "color": "from-red-500 to-red-600"
+  }
+]
+

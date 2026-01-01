@@ -1,0 +1,542 @@
+[
+  {
+    "id": "kw-capital-1",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "مدينة الكويت",
+    "nameEn": "Kuwait City",
+    "slug": "kuwait-city"
+  },
+  {
+    "id": "kw-capital-2",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "الشرق",
+    "nameEn": "Sharq",
+    "slug": "sharq"
+  },
+  {
+    "id": "kw-capital-3",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "الدسمة",
+    "nameEn": "Dasma",
+    "slug": "dasma"
+  },
+  {
+    "id": "kw-capital-4",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "الدعية",
+    "nameEn": "Daiya",
+    "slug": "daiya"
+  },
+  {
+    "id": "kw-capital-5",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "الشامية",
+    "nameEn": "Shamiya",
+    "slug": "shamiya"
+  },
+  {
+    "id": "kw-capital-6",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "الروضة",
+    "nameEn": "Rawda",
+    "slug": "rawda"
+  },
+  {
+    "id": "kw-capital-7",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "العديلية",
+    "nameEn": "Adailiya",
+    "slug": "adailiya"
+  },
+  {
+    "id": "kw-capital-8",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "كيفان",
+    "nameEn": "Keifan",
+    "slug": "keifan"
+  },
+  {
+    "id": "kw-capital-9",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "القادسية",
+    "nameEn": "Qadsiya",
+    "slug": "qadsiya"
+  },
+  {
+    "id": "kw-capital-10",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "المنصورية",
+    "nameEn": "Mansouriya",
+    "slug": "mansouriya"
+  },
+  {
+    "id": "kw-capital-11",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "الفيحاء",
+    "nameEn": "Faiha",
+    "slug": "faiha"
+  },
+  {
+    "id": "kw-capital-12",
+    "countryCode": "kw",
+    "governorate": "محافظة العاصمة",
+    "name": "النزهة",
+    "nameEn": "Nuzha",
+    "slug": "nuzha"
+  },
+  {
+    "id": "kw-hawalli-1",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "حولي",
+    "nameEn": "Hawalli",
+    "slug": "hawalli"
+  },
+  {
+    "id": "kw-hawalli-2",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "السالمية",
+    "nameEn": "Salmiya",
+    "slug": "salmiya"
+  },
+  {
+    "id": "kw-hawalli-3",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "الرميثية",
+    "nameEn": "Rumaithiya",
+    "slug": "rumaithiya"
+  },
+  {
+    "id": "kw-hawalli-4",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "الجابرية",
+    "nameEn": "Jabriya",
+    "slug": "jabriya"
+  },
+  {
+    "id": "kw-hawalli-5",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "مشرف",
+    "nameEn": "Mishref",
+    "slug": "mishref"
+  },
+  {
+    "id": "kw-hawalli-6",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "بيان",
+    "nameEn": "Bayan",
+    "slug": "bayan"
+  },
+  {
+    "id": "kw-hawalli-7",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "سلوى",
+    "nameEn": "Salwa",
+    "slug": "salwa"
+  },
+  {
+    "id": "kw-hawalli-8",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "الشعب",
+    "nameEn": "Shaab",
+    "slug": "shaab"
+  },
+  {
+    "id": "kw-hawalli-9",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "البدع",
+    "nameEn": "Bidaa",
+    "slug": "bidaa"
+  },
+  {
+    "id": "kw-hawalli-10",
+    "countryCode": "kw",
+    "governorate": "محافظة حولي",
+    "name": "النقرة",
+    "nameEn": "Nugra",
+    "slug": "nugra"
+  },
+  {
+    "id": "kw-farwaniya-1",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "الفروانية",
+    "nameEn": "Farwaniya",
+    "slug": "farwaniya"
+  },
+  {
+    "id": "kw-farwaniya-2",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "خيطان",
+    "nameEn": "Khaitan",
+    "slug": "khaitan"
+  },
+  {
+    "id": "kw-farwaniya-3",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "العمرية",
+    "nameEn": "Omariya",
+    "slug": "omariya"
+  },
+  {
+    "id": "kw-farwaniya-4",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "الأندلس",
+    "nameEn": "Andalus",
+    "slug": "andalus"
+  },
+  {
+    "id": "kw-farwaniya-5",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "اشبيلية",
+    "nameEn": "Ishbiliya",
+    "slug": "ishbiliya"
+  },
+  {
+    "id": "kw-farwaniya-6",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "جليب الشيوخ",
+    "nameEn": "Jleeb Al-Shuyoukh",
+    "slug": "jleeb-al-shuyoukh"
+  },
+  {
+    "id": "kw-farwaniya-7",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "الرابية",
+    "nameEn": "Rabiya",
+    "slug": "rabiya"
+  },
+  {
+    "id": "kw-farwaniya-8",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "الرحاب",
+    "nameEn": "Rihab",
+    "slug": "rihab"
+  },
+  {
+    "id": "kw-farwaniya-9",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "الفردوس",
+    "nameEn": "Firdous",
+    "slug": "firdous"
+  },
+  {
+    "id": "kw-farwaniya-10",
+    "countryCode": "kw",
+    "governorate": "محافظة الفروانية",
+    "name": "عبدالله المبارك",
+    "nameEn": "Abdullah Al-Mubarak",
+    "slug": "abdullah-al-mubarak"
+  },
+  {
+    "id": "kw-ahmadi-1",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "الأحمدي",
+    "nameEn": "Ahmadi",
+    "slug": "ahmadi"
+  },
+  {
+    "id": "kw-ahmadi-2",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "الفحيحيل",
+    "nameEn": "Fahaheel",
+    "slug": "fahaheel"
+  },
+  {
+    "id": "kw-ahmadi-3",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "المنقف",
+    "nameEn": "Mangaf",
+    "slug": "mangaf"
+  },
+  {
+    "id": "kw-ahmadi-4",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "أبو حليفة",
+    "nameEn": "Abu Halifa",
+    "slug": "abu-halifa"
+  },
+  {
+    "id": "kw-ahmadi-5",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "الفنطاس",
+    "nameEn": "Fintas",
+    "slug": "fintas"
+  },
+  {
+    "id": "kw-ahmadi-6",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "العقيلة",
+    "nameEn": "Aqila",
+    "slug": "aqila"
+  },
+  {
+    "id": "kw-ahmadi-7",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "الظهر",
+    "nameEn": "Dhaher",
+    "slug": "dhaher"
+  },
+  {
+    "id": "kw-ahmadi-8",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "هدية",
+    "nameEn": "Hadiya",
+    "slug": "hadiya"
+  },
+  {
+    "id": "kw-ahmadi-9",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "الرقة",
+    "nameEn": "Riggae",
+    "slug": "riggae"
+  },
+  {
+    "id": "kw-ahmadi-10",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "الصباحية",
+    "nameEn": "Sabahiya",
+    "slug": "sabahiya"
+  },
+  {
+    "id": "kw-ahmadi-11",
+    "countryCode": "kw",
+    "governorate": "محافظة الأحمدي",
+    "name": "المهبولة",
+    "nameEn": "Mahboula",
+    "slug": "mahboula"
+  },
+  {
+    "id": "kw-jahra-1",
+    "countryCode": "kw",
+    "governorate": "محافظة الجهراء",
+    "name": "الجهراء",
+    "nameEn": "Jahra",
+    "slug": "jahra"
+  },
+  {
+    "id": "kw-jahra-2",
+    "countryCode": "kw",
+    "governorate": "محافظة الجهراء",
+    "name": "النسيم",
+    "nameEn": "Naseem",
+    "slug": "naseem"
+  },
+  {
+    "id": "kw-jahra-3",
+    "countryCode": "kw",
+    "governorate": "محافظة الجهراء",
+    "name": "القصر",
+    "nameEn": "Qasr",
+    "slug": "qasr"
+  },
+  {
+    "id": "kw-jahra-4",
+    "countryCode": "kw",
+    "governorate": "محافظة الجهراء",
+    "name": "الواحة",
+    "nameEn": "Waha",
+    "slug": "waha"
+  },
+  {
+    "id": "kw-jahra-5",
+    "countryCode": "kw",
+    "governorate": "محافظة الجهراء",
+    "name": "العيون",
+    "nameEn": "Oyoun",
+    "slug": "oyoun"
+  },
+  {
+    "id": "kw-jahra-6",
+    "countryCode": "kw",
+    "governorate": "محافظة الجهراء",
+    "name": "تيماء",
+    "nameEn": "Taima",
+    "slug": "taima"
+  },
+  {
+    "id": "kw-jahra-7",
+    "countryCode": "kw",
+    "governorate": "محافظة الجهراء",
+    "name": "سعد العبدالله",
+    "nameEn": "Saad Al-Abdullah",
+    "slug": "saad-al-abdullah"
+  },
+  {
+    "id": "kw-mubarak-1",
+    "countryCode": "kw",
+    "governorate": "محافظة مبارك الكبير",
+    "name": "صباح السالم",
+    "nameEn": "Sabah Al-Salem",
+    "slug": "sabah-alsalem"
+  },
+  {
+    "id": "kw-mubarak-2",
+    "countryCode": "kw",
+    "governorate": "محافظة مبارك الكبير",
+    "name": "المسيلة",
+    "nameEn": "Messila",
+    "slug": "messila"
+  },
+  {
+    "id": "kw-mubarak-3",
+    "countryCode": "kw",
+    "governorate": "محافظة مبارك الكبير",
+    "name": "أبو فطيرة",
+    "nameEn": "Abu Fteira",
+    "slug": "abu-fteira"
+  },
+  {
+    "id": "kw-mubarak-4",
+    "countryCode": "kw",
+    "governorate": "محافظة مبارك الكبير",
+    "name": "العدان",
+    "nameEn": "Adan",
+    "slug": "adan"
+  },
+  {
+    "id": "kw-mubarak-5",
+    "countryCode": "kw",
+    "governorate": "محافظة مبارك الكبير",
+    "name": "القصور",
+    "nameEn": "Qusour",
+    "slug": "qusour"
+  },
+  {
+    "id": "kw-mubarak-6",
+    "countryCode": "kw",
+    "governorate": "محافظة مبارك الكبير",
+    "name": "القرين",
+    "nameEn": "Qrain",
+    "slug": "qrain"
+  },
+  {
+    "id": "kw-mubarak-7",
+    "countryCode": "kw",
+    "governorate": "محافظة مبارك الكبير",
+    "name": "الفنيطيس",
+    "nameEn": "Fnaitees",
+    "slug": "fnaitees"
+  },
+  {
+    "id": "sa-1",
+    "countryCode": "sa",
+    "name": "الرياض",
+    "nameEn": "Riyadh",
+    "slug": "riyadh"
+  },
+  {
+    "id": "sa-2",
+    "countryCode": "sa",
+    "name": "جدة",
+    "nameEn": "Jeddah",
+    "slug": "jeddah"
+  },
+  {
+    "id": "sa-3",
+    "countryCode": "sa",
+    "name": "مكة",
+    "nameEn": "Makkah",
+    "slug": "makkah"
+  },
+  {
+    "id": "sa-4",
+    "countryCode": "sa",
+    "name": "المدينة",
+    "nameEn": "Madinah",
+    "slug": "madinah"
+  },
+  {
+    "id": "sa-5",
+    "countryCode": "sa",
+    "name": "الدمام",
+    "nameEn": "Dammam",
+    "slug": "dammam"
+  },
+  {
+    "id": "ae-1",
+    "countryCode": "ae",
+    "name": "دبي",
+    "nameEn": "Dubai",
+    "slug": "dubai"
+  },
+  {
+    "id": "ae-2",
+    "countryCode": "ae",
+    "name": "أبوظبي",
+    "nameEn": "Abu Dhabi",
+    "slug": "abudhabi"
+  },
+  {
+    "id": "ae-3",
+    "countryCode": "ae",
+    "name": "الشارقة",
+    "nameEn": "Sharjah",
+    "slug": "sharjah"
+  },
+  {
+    "id": "qa-1",
+    "countryCode": "qa",
+    "name": "الدوحة",
+    "nameEn": "Doha",
+    "slug": "doha"
+  },
+  {
+    "id": "qa-2",
+    "countryCode": "qa",
+    "name": "الوكرة",
+    "nameEn": "Al Wakrah",
+    "slug": "wakrah"
+  },
+  {
+    "id": "bh-1",
+    "countryCode": "bh",
+    "name": "المنامة",
+    "nameEn": "Manama",
+    "slug": "manama"
+  },
+  {
+    "id": "om-1",
+    "countryCode": "om",
+    "name": "مسقط",
+    "nameEn": "Muscat",
+    "slug": "muscat"
+  }
+]

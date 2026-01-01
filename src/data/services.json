@@ -1,0 +1,102 @@
+[
+  {
+    "id": "svc-1",
+    "key": "ac-technician",
+    "name": "فني تكييف",
+    "nameEn": "AC Technician",
+    "description": "تركيب وصيانة أجهزة التكييف المركزي والسبليت",
+    "descriptionEn": "Installation and maintenance of central and split AC units",
+    "icon": "Wind",
+    "slug": "ac-technician",
+    "color": "from-sky-500 to-sky-600"
+  },
+  {
+    "id": "svc-2",
+    "key": "refrigerator",
+    "name": "فني ثلاجات",
+    "nameEn": "Refrigerator Technician",
+    "description": "صيانة وإصلاح جميع أنواع الثلاجات والفريزرات",
+    "descriptionEn": "Maintenance and repair of all types of refrigerators and freezers",
+    "icon": "Refrigerator",
+    "slug": "refrigerator",
+    "color": "from-blue-500 to-blue-600"
+  },
+  {
+    "id": "svc-3",
+    "key": "washing-machine",
+    "name": "فني غسالات",
+    "nameEn": "Washing Machine Technician",
+    "description": "إصلاح الغسالات الأوتوماتيكية والعادية والنشافات",
+    "descriptionEn": "Repair of automatic, manual washing machines and dryers",
+    "icon": "WashingMachine",
+    "slug": "washing-machine",
+    "color": "from-cyan-500 to-cyan-600"
+  },
+  {
+    "id": "svc-4",
+    "key": "electrician",
+    "name": "كهربائي",
+    "nameEn": "Electrician",
+    "description": "أعمال الكهرباء والتمديدات والإضاءة وصيانة اللوحات",
+    "descriptionEn": "Electrical works, wiring, lighting and panel maintenance",
+    "icon": "Zap",
+    "slug": "electrician",
+    "color": "from-yellow-500 to-orange-500"
+  },
+  {
+    "id": "svc-5",
+    "key": "plumber",
+    "name": "سباكة",
+    "nameEn": "Plumber",
+    "description": "صيانة السباكة وإصلاح التسريبات وتركيب الأدوات الصحية",
+    "descriptionEn": "Plumbing maintenance, leak repair and sanitary installation",
+    "icon": "Droplets",
+    "slug": "plumber",
+    "color": "from-blue-400 to-blue-500"
+  },
+  {
+    "id": "svc-6",
+    "key": "satellite",
+    "name": "ستلايت",
+    "nameEn": "Satellite Technician",
+    "description": "تركيب وصيانة أطباق الستلايت وأجهزة الاستقبال",
+    "descriptionEn": "Installation and maintenance of satellite dishes and receivers",
+    "icon": "Satellite",
+    "slug": "satellite",
+    "color": "from-purple-500 to-purple-600"
+  },
+  {
+    "id": "svc-7",
+    "key": "carpenter",
+    "name": "نجار",
+    "nameEn": "Carpenter",
+    "description": "أعمال النجارة والأثاث والأبواب والديكورات الخشبية",
+    "descriptionEn": "Carpentry, furniture, doors and wood decorations",
+    "icon": "Hammer",
+    "slug": "carpenter",
+    "color": "from-amber-600 to-amber-700"
+  },
+  {
+    "id": "svc-8",
+    "key": "general-maintenance",
+    "name": "صيانة عامة",
+    "nameEn": "General Maintenance",
+    "description": "خدمات الصيانة العامة للمنازل والمكاتب",
+    "descriptionEn": "General maintenance services for homes and offices",
+    "icon": "Wrench",
+    "slug": "general-maintenance",
+    "color": "from-gray-600 to-gray-700"
+  },
+  {
+    "id": "svc-9",
+    "key": "camera-installation",
+    "name": "تركيب كاميرات",
+    "nameEn": "Camera Installation",
+    "description": "تركيب وصيانة كاميرات المراقبة وأنظمة الأمان",
+    "descriptionEn": "Installation and maintenance of surveillance cameras and security systems",
+    "icon": "Camera",
+    "slug": "camera-installation",
+    "color": "from-red-500 to-red-600"
+  }
+]
+

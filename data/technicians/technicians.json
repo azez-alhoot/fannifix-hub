@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tech_001",
+    "name": "أحمد محمد العنزي",
+    "service_id": "ac",
+    "areas": ["hawalli", "salmiya"],
+    "whatsapp": "96550123456",
+    "price_range": "15-30 د.ك",
+    "featured": true
+  },
+  {
+    "id": "tech_002",
+    "name": "خالد عبدالله الصباح",
+    "service_id": "washing-machine",
+    "areas": ["hawalli", "salmiya", "kuwait-city"],
+    "whatsapp": "96551234567",
+    "price_range": "10-25 د.ك",
+    "featured": true
+  },
+  {
+    "id": "tech_003",
+    "name": "فهد سعود المطيري",
+    "service_id": "electrician",
+    "areas": ["kuwait-city"],
+    "whatsapp": "96552345678",
+    "price_range": "12-28 د.ك",
+    "featured": false
+  },
+  {
+    "id": "tech_004",
+    "name": "بدر العجمي",
+    "service_id": "ac",
+    "areas": ["farwaniya", "khaitan"],
+    "whatsapp": "96553456789",
+    "price_range": "15-35 د.ك",
+    "featured": false
+  },
+  {
+    "id": "tech_005",
+    "name": "جاسم الرشيدي",
+    "service_id": "refrigerator",
+    "areas": ["salmiya"],
+    "whatsapp": "96554567890",
+    "price_range": "12-28 د.ك",
+    "featured": false
+  },
+  {
+    "id": "tech_006",
+    "name": "مشاري الدوسري",
+    "service_id": "satellite",
+    "areas": ["kuwait-city", "hawalli", "salmiya"],
+    "whatsapp": "96555678901",
+    "price_range": "10-20 د.ك",
+    "featured": false
+  }
+]
+

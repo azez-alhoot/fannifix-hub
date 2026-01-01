@@ -1,0 +1,344 @@
+[
+  {
+    "id": "kuwait-city",
+    "name": "مدينة الكويت",
+    "slug": "kuwait-city",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "sharq",
+    "name": "الشرق",
+    "slug": "sharq",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "dasma",
+    "name": "الدسمة",
+    "slug": "dasma",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "daiya",
+    "name": "الدعية",
+    "slug": "daiya",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "shamiya",
+    "name": "الشامية",
+    "slug": "shamiya",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "rawda",
+    "name": "الروضة",
+    "slug": "rawda",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "adailiya",
+    "name": "العديلية",
+    "slug": "adailiya",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "keifan",
+    "name": "كيفان",
+    "slug": "keifan",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "qadsiya",
+    "name": "القادسية",
+    "slug": "qadsiya",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "mansouriya",
+    "name": "المنصورية",
+    "slug": "mansouriya",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "faiha",
+    "name": "الفيحاء",
+    "slug": "faiha",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "nuzha",
+    "name": "النزهة",
+    "slug": "nuzha",
+    "governorate": "محافظة العاصمة"
+  },
+  {
+    "id": "hawalli",
+    "name": "حولي",
+    "slug": "hawalli",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "salmiya",
+    "name": "السالمية",
+    "slug": "salmiya",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "rumaithiya",
+    "name": "الرميثية",
+    "slug": "rumaithiya",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "jabriya",
+    "name": "الجابرية",
+    "slug": "jabriya",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "mishref",
+    "name": "مشرف",
+    "slug": "mishref",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "bayan",
+    "name": "بيان",
+    "slug": "bayan",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "salwa",
+    "name": "سلوى",
+    "slug": "salwa",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "shaab",
+    "name": "الشعب",
+    "slug": "shaab",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "bidaa",
+    "name": "البدع",
+    "slug": "bidaa",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "nugra",
+    "name": "النقرة",
+    "slug": "nugra",
+    "governorate": "محافظة حولي"
+  },
+  {
+    "id": "farwaniya",
+    "name": "الفروانية",
+    "slug": "farwaniya",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "khaitan",
+    "name": "خيطان",
+    "slug": "khaitan",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "omariya",
+    "name": "العمرية",
+    "slug": "omariya",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "andalus",
+    "name": "الأندلس",
+    "slug": "andalus",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "ishbiliya",
+    "name": "اشبيلية",
+    "slug": "ishbiliya",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "jleeb-al-shuyoukh",
+    "name": "جليب الشيوخ",
+    "slug": "jleeb-al-shuyoukh",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "rabiya",
+    "name": "الرابية",
+    "slug": "rabiya",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "rihab",
+    "name": "الرحاب",
+    "slug": "rihab",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "firdous",
+    "name": "الفردوس",
+    "slug": "firdous",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "abdullah-al-mubarak",
+    "name": "عبدالله المبارك",
+    "slug": "abdullah-al-mubarak",
+    "governorate": "محافظة الفروانية"
+  },
+  {
+    "id": "ahmadi",
+    "name": "الأحمدي",
+    "slug": "ahmadi",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "fahaheel",
+    "name": "الفحيحيل",
+    "slug": "fahaheel",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "mangaf",
+    "name": "المنقف",
+    "slug": "mangaf",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "abu-halifa",
+    "name": "أبو حليفة",
+    "slug": "abu-halifa",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "fintas",
+    "name": "الفنطاس",
+    "slug": "fintas",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "aqila",
+    "name": "العقيلة",
+    "slug": "aqila",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "dhaher",
+    "name": "الظهر",
+    "slug": "dhaher",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "hadiya",
+    "name": "هدية",
+    "slug": "hadiya",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "riggae",
+    "name": "الرقة",
+    "slug": "riggae",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "sabahiya",
+    "name": "الصباحية",
+    "slug": "sabahiya",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "mahboula",
+    "name": "المهبولة",
+    "slug": "mahboula",
+    "governorate": "محافظة الأحمدي"
+  },
+  {
+    "id": "jahra",
+    "name": "الجهراء",
+    "slug": "jahra",
+    "governorate": "محافظة الجهراء"
+  },
+  {
+    "id": "naseem",
+    "name": "النسيم",
+    "slug": "naseem",
+    "governorate": "محافظة الجهراء"
+  },
+  {
+    "id": "qasr",
+    "name": "القصر",
+    "slug": "qasr",
+    "governorate": "محافظة الجهراء"
+  },
+  {
+    "id": "waha",
+    "name": "الواحة",
+    "slug": "waha",
+    "governorate": "محافظة الجهراء"
+  },
+  {
+    "id": "oyoun",
+    "name": "العيون",
+    "slug": "oyoun",
+    "governorate": "محافظة الجهراء"
+  },
+  {
+    "id": "taima",
+    "name": "تيماء",
+    "slug": "taima",
+    "governorate": "محافظة الجهراء"
+  },
+  {
+    "id": "saad-al-abdullah",
+    "name": "سعد العبدالله",
+    "slug": "saad-al-abdullah",
+    "governorate": "محافظة الجهراء"
+  },
+  {
+    "id": "sabah-alsalem",
+    "name": "صباح السالم",
+    "slug": "sabah-alsalem",
+    "governorate": "محافظة مبارك الكبير"
+  },
+  {
+    "id": "messila",
+    "name": "المسيلة",
+    "slug": "messila",
+    "governorate": "محافظة مبارك الكبير"
+  },
+  {
+    "id": "abu-fteira",
+    "name": "أبو فطيرة",
+    "slug": "abu-fteira",
+    "governorate": "محافظة مبارك الكبير"
+  },
+  {
+    "id": "adan",
+    "name": "العدان",
+    "slug": "adan",
+    "governorate": "محافظة مبارك الكبير"
+  },
+  {
+    "id": "qusour",
+    "name": "القصور",
+    "slug": "qusour",
+    "governorate": "محافظة مبارك الكبير"
+  },
+  {
+    "id": "qrain",
+    "name": "القرين",
+    "slug": "qrain",
+    "governorate": "محافظة مبارك الكبير"
+  },
+  {
+    "id": "fnaitees",
+    "name": "الفنيطيس",
+    "slug": "fnaitees",
+    "governorate": "محافظة مبارك الكبير"
+  }
+]

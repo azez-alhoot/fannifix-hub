@@ -1,0 +1,87 @@
+[
+  {
+    "id": "tech_001",
+    "name": "أحمد محمد العنزي",
+    "nameEn": "Ahmed Mohammed Al-Anzi",
+    "service_id": "ac",
+    "serviceIds": ["ac", "plumber"],
+    "areas": ["hawalli", "salmiya"],
+    "areaIds": ["hawalli", "salmiya"],
+    "countryCode": "kw",
+    "phone": "+96550123456",
+    "whatsapp": "96550123456",
+    "description": "فني تكييف محترف بخبرة 8 سنوات في صيانة وتركيب جميع أنواع المكيفات المركزية والسبليت. خدمة سريعة وأسعار مناسبة.",
+    "experienceYears": 8,
+    "priceEstimate": "15-30 د.ك",
+    "price_range": "15-30 د.ك",
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "viewsCount": 1520,
+    "verified": true,
+    "featured": true,
+    "status": "active",
+    "images": ["https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300&h=300&fit=crop&crop=face"],
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "tech_002",
+    "name": "خالد عبدالله الصباح",
+    "nameEn": "Khaled Abdullah Al-Sabah",
+    "service_id": "washing-machine",
+    "serviceIds": ["washing-machine"],
+    "areas": ["hawalli", "salmiya", "kuwait-city"],
+    "areaIds": ["hawalli", "salmiya", "kuwait-city"],
+    "countryCode": "kw",
+    "phone": "+96551234567",
+    "whatsapp": "96551234567",
+    "description": "كهربائي معتمد بخبرة 12 عام في جميع أعمال الكهرباء المنزلية والتجارية. تمديدات وإصلاحات وصيانة دورية.",
+    "experienceYears": 12,
+    "priceEstimate": "10-25 د.ك",
+    "price_range": "10-25 د.ك",
+    "rating": 4.8,
+    "reviewsCount": 95,
+    "viewsCount": 980,
+    "verified": true,
+    "featured": true,
+    "status": "active",
+    "images": ["https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face"],
+    "createdAt": "2024-02-10"
+  },
+  {
+    "id": "tech_003",
+    "name": "فهد سعود المطيري",
+    "service_id": "electrician",
+    "areas": ["kuwait-city"],
+    "whatsapp": "96552345678",
+    "price_range": "12-28 د.ك",
+    "featured": false
+  },
+  {
+    "id": "tech_004",
+    "name": "بدر العجمي",
+    "service_id": "ac",
+    "areas": ["farwaniya", "khaitan"],
+    "whatsapp": "96553456789",
+    "price_range": "15-35 د.ك",
+    "featured": false
+  },
+  {
+    "id": "tech_005",
+    "name": "جاسم الرشيدي",
+    "service_id": "refrigerator",
+    "areas": ["salmiya"],
+    "whatsapp": "96554567890",
+    "price_range": "12-28 د.ك",
+    "featured": false
+  },
+  {
+    "id": "tech_006",
+    "name": "مشاري الدوسري",
+    "service_id": "satellite",
+    "areas": ["kuwait-city", "hawalli", "salmiya"],
+    "whatsapp": "96555678901",
+    "price_range": "10-20 د.ك",
+    "featured": false
+  }
+]
+

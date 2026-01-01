@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ac",
+    "name": "فني تكييف",
+    "slug": "ac-technician"
+  },
+  {
+    "id": "refrigerator",
+    "name": "فني ثلاجات",
+    "slug": "refrigerator"
+  },
+  {
+    "id": "washing-machine",
+    "name": "فني غسالات",
+    "slug": "washing-machine"
+  },
+  {
+    "id": "electrician",
+    "name": "كهربائي",
+    "slug": "electrician"
+  },
+  {
+    "id": "plumber",
+    "name": "سباكة",
+    "slug": "plumber"
+  },
+  {
+    "id": "satellite",
+    "name": "ستلايت",
+    "slug": "satellite"
+  },
+  {
+    "id": "carpenter",
+    "name": "نجار",
+    "slug": "carpenter"
+  },
+  {
+    "id": "general-maintenance",
+    "name": "صيانة عامة",
+    "slug": "general-maintenance"
+  },
+  {
+    "id": "camera-installation",
+    "name": "تركيب كاميرات",
+    "slug": "camera-installation"
+  }
+]
+
